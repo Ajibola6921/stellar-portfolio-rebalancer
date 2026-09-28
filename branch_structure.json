@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/root-dependencies-2aeaab81f7",
+    "feat/public-status-oracle-dex-1857",
+    "main",
+    "origin",
+    "release-please--branches--main--components--stellar-portfolio-rebalancer",
+    "revert-14-main"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/root-dependencies-2aeaab81f7": "main",
+    "feat/public-status-oracle-dex-1857": "main",
+    "main": null,
+    "origin": "main",
+    "release-please--branches--main--components--stellar-portfolio-rebalancer": "main",
+    "revert-14-main": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/root-dependencies-2aeaab81f7",
+    "feat/public-status-oracle-dex-1857",
+    "origin",
+    "release-please--branches--main--components--stellar-portfolio-rebalancer",
+    "revert-14-main"
+  ]
+}
